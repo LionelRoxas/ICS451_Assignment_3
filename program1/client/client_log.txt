@@ -1,4 +1,4 @@
-Connecting to server on port 30000
+Connecting to server on port 25000
 Connected to server
 Reading response from server...
 Header: HTTP/1.1 200 OK
