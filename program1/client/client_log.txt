@@ -1,9 +1,0 @@
-Connecting to server on port 25420
-Connected to server
-Reading response from server...
-Header: HTTP/1.1 200 OK
-Header: Content-Type: text/plain
-Header: Content-Length: 1190
-Receiving file content...
-File received and saved to client_file.txt
-Connection closed
